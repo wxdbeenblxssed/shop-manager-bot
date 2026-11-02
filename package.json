@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.28.0"
+  }
+}
